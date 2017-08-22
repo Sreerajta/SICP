@@ -1,0 +1,3 @@
+the new if method evaluate in the normal order.
+got the message stack level too deep
+In normal order arguments are not evaluated until whole statement is expanded to primitives only.
